@@ -2,9 +2,11 @@
 
 Meu nome é Jackeline da Silva 
 
--Estou estudando na [alura](https.//www.alura.com.br)
+•Estou estudando na [alura](https.//www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript 
+
 -Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
+
 
 ### Você pode entrar em contato comigo 📫
 
